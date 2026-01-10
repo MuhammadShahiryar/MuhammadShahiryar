@@ -1,148 +1,141 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Muhammad%20Shahir%20Yar&fontSize=48&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Muhammad%20Shahir%20Yar&fontSize=46&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-<h1 align="center">
-  Full-Stack Developer | Backend-Focused | Cloud & Systems Engineer
-</h1>
+<h2 align="center">Full-Stack Developer • Backend & Systems Engineer • Cloud-Driven</h2>
 
-<h3 align="center">
-Building scalable products • Architecting APIs • Automating systems • Shipping real software
-</h3>
+<p align="center">
+I build <b>scalable products, backend systems, and cloud-native platforms</b><br/>
+focused on performance, reliability, and real-world business impact.
+</p>
 
 <div align="center">
 
-📍 Lahore, Pakistan
-📧 muhammadshahiryar124@gmail.com
+📍 Lahore, Pakistan &nbsp;|&nbsp;
+📧 muhammadshahiryar124@gmail.com &nbsp;|&nbsp;
 🔗 <a href="https://www.linkedin.com/in/muhammad-shahir-yar/">LinkedIn</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## ⚡ 6-Second Snapshot (For Recruiters)
 
-I’m **Muhammad Shahir Yar**, a **Full-Stack Developer with 4+ years of hands-on experience** building **production-grade web applications**, scalable backend systems, and cloud-native services.
-
-I specialize in **Node.js, NestJS, Next.js, AWS, and database-driven systems**, and I’m currently working at **Amrood Labs** on **Nureply**, an **AI-powered cold email platform** used in real business environments.
-
-I enjoy working on:
-
-- High-scale backend systems
-- Email & automation platforms
-- Serverless & cloud architectures
-- Performance-critical applications
-- API ecosystems & integrations
+**✅ Full-Stack Developer (4+ Years)**
+**✅ Backend-Heavy, Systems-Oriented**
+**✅ SaaS & Automation Platforms**
+**✅ Node.js, NestJS, Next.js, AWS**
+**✅ Real Production Products (Nureply, Kinfolk, Mail Systems)**
+**✅ Cloud, APIs, Queues, Databases, Performance**
 
 ---
 
-## 🏗️ What I Do Best
+## 👨‍💻 Who I Am
 
-- Architect and develop **scalable backend systems**
-- Build **full-stack SaaS platforms**
+I’m **Muhammad Shahir Yar**, a **Full-Stack Developer with 4+ years of professional experience** building **production-grade SaaS platforms, backend systems, and cloud architectures.**
+
+Currently, I work at **Amrood Labs** where I help build and scale **AI-powered and automation-driven products** used by real businesses.
+
+My core strength is turning **complex business workflows into scalable technical systems.**
+
+---
+
+## 🧠 What I Do Best
+
+- Architect and build **scalable backend systems**
+- Develop **full-stack SaaS applications**
 - Design **secure REST & GraphQL APIs**
-- Implement **background jobs, queues, and schedulers**
-- Integrate **third-party platforms (Slack, HR systems, email, cloud services)**
-- Optimize **databases, caching, and performance**
-- Deploy and manage **cloud & containerized systems**
+- Implement **background jobs, schedulers & queues**
+- Build **email, automation & integration platforms**
+- Optimize **performance, caching, and databases**
+- Deploy and manage **cloud-native systems**
 
 ---
 
-## 💼 Current Role
+## 🏢 Current Role
 
 ### 🚀 Full-Stack Developer — Amrood Labs
 
 **Product:** Nureply (AI Cold Email Platform)
 
-- Building scalable apps using **Next.js & NestJS**
-- Designing backend services and architectures
-- Implementing **Dockerized environments**
+- Building production apps with **Next.js & NestJS**
+- Architecting **backend services & APIs**
+- Implementing **Dockerized & cloud-based environments**
 - Improving performance using **Redis caching**
-- Integrating **EmailEngine, S3, third-party APIs**
-- Collaborating closely with product & design teams
-- Maintaining production-level code quality
+- Integrating **EmailEngine, AWS services, third-party APIs**
+- Working closely with **product & design teams**
 
 ---
 
-## 🧠 Previous Work Highlights
+## 🏗️ Real-World Project Experience
 
-- **Mail Router (Amrood Labs)**
-  Built a complete Mail API system using **Node.js, AWS Lambda, CloudFormation, REST APIs, monitoring, and unit testing**.
+**🟣 Nureply — AI Cold Email Platform**
+Scalable SaaS platform for cold email automation, background jobs, analytics, and integrations.
 
-- **Kinfolk (Aurora Solutions)**
-  Backend-heavy HR & onboarding platform with **NestJS, GraphQL, DynamoDB, Slack & Teams bots, notification schedulers, and integrations**.
+**🟣 Mail Router — Email Infrastructure System**
+Built a complete Mail API service using AWS Lambda, CloudFormation, monitoring, and testing.
 
-- **Aurora Portal**
-  Internal company system for HR, attendance, logs, and admin management.
+**🟣 Kinfolk — HR & Onboarding Platform**
+Backend-heavy system with notification engines, Slack & Teams bots, GraphQL APIs, and schedulers.
 
-- **Bitewell**
-  Health & nutrition platform integrating **Kroger, Suggestic, Firebase**, and custom meal recommendation systems.
+**🟣 Aurora Portal — Internal Enterprise System**
+Attendance, HR, admin, and workflow automation platform.
 
----
-
-## 🛠️ Tech Stack
-
-### 🔹 Languages & Core
-
-- JavaScript, TypeScript
-- SQL & NoSQL Databases
-
-### 🔹 Frontend
-
-- React.js, Next.js
-- HTML, CSS
-
-### 🔹 Backend
-
-- Node.js, NestJS, Express
-- REST APIs, GraphQL
-- Authentication & integrations
-
-### 🔹 Databases
-
-- MongoDB, PostgreSQL, MySQL
-- DynamoDB, Firebase
-
-### 🔹 Cloud & DevOps
-
-- AWS (Lambda, S3, Amplify, AppSync, CloudWatch)
-- Docker, Serverless Architecture
-- Redis (caching & performance)
-
-### 🔹 Tools & Practices
-
-- GitHub, GitLab
-- Swagger / OpenAPI
-- Linux / CLI
-- Agile, code reviews, documentation
+**🟣 Bitewell — Health & Nutrition Platform**
+Integrated external APIs (Kroger, Suggestic, Firebase) and backend services.
 
 ---
 
-## 📜 Certifications
+## 🛠️ Tech Stack (Quick Scan)
 
-- ☁️ **AWS Certified Cloud Practitioner**
+### Backend & Systems
+
+`Node.js` `NestJS` `Express` `REST` `GraphQL` `Redis` `Schedulers` `Queues`
+
+### Frontend
+
+`Next.js` `React` `HTML` `CSS`
+
+### Databases
+
+`MongoDB` `PostgreSQL` `MySQL` `DynamoDB` `Firebase`
+
+### Cloud & DevOps
+
+`AWS` `Lambda` `S3` `Amplify` `AppSync` `CloudWatch` `Docker`
+
+### Engineering Practices
+
+`System Design` `API Architecture` `Performance Optimization`
+`Testing` `Documentation` `Agile` `Code Reviews`
+
+---
+
+## ☁️ Certification
+
+🎓 **AWS Certified Cloud Practitioner**
 
 ---
 
 ## 🎯 Current Focus
 
 ```ts
-const currentFocus = {
+const focus = {
   building: [
     "Scalable SaaS platforms",
-    "Email & automation systems",
-    "Backend-heavy architectures",
+    "Backend & automation systems",
+    "Cloud-native architectures",
   ],
   learning: [
     "Advanced system design",
     "Distributed systems",
-    "Cloud & microservices",
-    "AI-powered applications",
+    "Microservices & scalability",
+    "AI-powered platforms",
   ],
-  interestedIn: [
-    "High-impact products",
-    "Complex backend challenges",
-    "Startups & long-term products",
+  openTo: [
+    "Backend-heavy roles",
+    "Product-focused teams",
+    "Long-term impactful systems",
   ],
 };
 ```
