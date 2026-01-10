@@ -215,12 +215,13 @@ Mobile app backend for personalized meal planning.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadShahiryar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShahiryar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" height="170"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadShahiryar&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+![](https://github-readme-stats.vercel.app/api?username=MuhammadShahiryar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=MuhammadShahiryar&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShahiryar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 ---
